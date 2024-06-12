@@ -1,0 +1,1 @@
+g++ ./src/main.cpp ./src/CommonLibrary.h ./src/Component.h ./src/Component.cpp ./src/JsonTree.h ./src/JsonTree.cpp ./src/FunnyJsonExplorer.h ./src/FunnyJsonExplorer.cpp ./src/Builder.h ./src/Builder.cpp -o ./bin/fje
